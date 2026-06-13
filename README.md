@@ -40,7 +40,7 @@ python object_detection.py
 
 ![Detection 1](https://github.com/Arasu-786/CodeAlpha_ObjectDetection/blob/main/CodeAlpha_ObjectDetection/Screenshots/Screenshot%202026-06-13%20201611.png)
 
-![Detection 2](screenshots/detection2.png)
+![Detection 2](https://github.com/Arasu-786/CodeAlpha_ObjectDetection/blob/main/CodeAlpha_ObjectDetection/Screenshots/Screenshot%202026-06-13%20201639.png)
 
 ![Detection 3](screenshots/detection3.png)
 
