@@ -1,2 +1,4 @@
-ultralytics
-opencv-python
+• Python
+• OpenCV
+• YOLOv8
+• Ultralytics
